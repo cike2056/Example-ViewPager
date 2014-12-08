@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="rb_selected">#007ED2</drawable>
+    <drawable name="rb_default">#2CB044</drawable>
+</resources>
